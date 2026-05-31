@@ -12,6 +12,12 @@ configuration:
     - private
     - templates
     - .obsidian
+    - "*/quartz"
+    - "*/Makefile"
+    - CLAUDE.md
+    - "*/CLAUDE.md"
+    - .gitignore
+    - "*/.gitignore"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

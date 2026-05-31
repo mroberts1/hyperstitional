@@ -1,0 +1,6 @@
+[submodule "content/k-punk"]
+	path = content/k-punk
+	url = git@github.com:mroberts1/k-punk.git
+[submodule "content/acid-communism"]
+	path = content/acid-communism
+	url = git@github.com:mroberts1/acid-communism.git
